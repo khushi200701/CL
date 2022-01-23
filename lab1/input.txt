@@ -1,0 +1,8 @@
+/* this is a comment*/
+int a; 
+/* another one*/
+/*Here is the 3rd one*/ 
+char b;
+/* the final one*/ 
+float c; 
+/*is here*/
