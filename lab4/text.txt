@@ -1,0 +1,10 @@
+S=aB
+S=bA
+B=b
+B=bSQ
+B=aBBQ
+Q=#
+P=#
+A=aP
+A=aSP
+A=bAAP
